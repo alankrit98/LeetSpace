@@ -407,6 +407,7 @@ a:focus {
   background-color: #e6e6e8;
   padding: 20px;
   border-radius: 5px;
+  overflow: auto;
 }
 
 .service_section .box .img-box {
@@ -491,6 +492,7 @@ a:focus {
 
 .about_section .img-box img {
   max-width: 70%;
+  margin-left: 49px;
 }
 
 .about_section .detail-box h3 {
